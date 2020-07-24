@@ -7,19 +7,19 @@
 /*tools*/ 
 .Deep{
 	float: left;
-	margin-left: 100px;	
+	margin-left: -30px;	
 	margin-top: 50px;
 }
 /*tools*/ 
 .Gta{
 	float: left;
-	margin-left: 100px;	
+	margin-left: 230px;	
 	margin-top: 50px;
 }
 /*tools*/ 
 .RDR2{
 	float: left;
-	margin-left: 100px;	
+	margin-left: -160px;	
 	margin-top: 50px;
 }
 
@@ -58,4 +58,16 @@
 	margin-left: -220px;
 	margin-top: 490px;
 	
+}
+.gamebutton{
+	color: white;
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: center;
+	text-align: center;
+	justify-content: space-evenly;
+}
+.gametitle{
+	font-size: 50px;
+	margin-left: -50px
 }
