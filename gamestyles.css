@@ -1,0 +1,61 @@
+/*tools*/ 
+.PicRight{
+	float: left;
+	margin-left: 140px;	
+	margin-top: 50px;
+}
+/*tools*/ 
+.Deep{
+	float: left;
+	margin-left: 100px;	
+	margin-top: 50px;
+}
+/*tools*/ 
+.Gta{
+	float: left;
+	margin-left: 100px;	
+	margin-top: 50px;
+}
+/*tools*/ 
+.RDR2{
+	float: left;
+	margin-left: 100px;	
+	margin-top: 50px;
+}
+
+.hitmantext{
+	float: left;
+	margin-left: -1245px;
+	margin-top: 450px;
+	
+}
+.deeptext{
+	float: left;
+	margin-left: -900px;
+	margin-top: 450px;
+	
+}
+.deeptext2{
+	float: left;
+	margin-left: -880px;
+	margin-top: 490px;
+	
+}
+.gtatext{
+	float: left;
+	margin-left: -520px;
+	margin-top: 450px;
+	
+}
+.rdr2text{
+	float: left;
+	margin-left: -190px;
+	margin-top: 450px;
+	
+}
+.rdr2text2{
+	float: left;
+	margin-left: -220px;
+	margin-top: 490px;
+	
+}
